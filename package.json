@@ -54,7 +54,7 @@
     "@angular/cli": "~16.2.0",
     "@angular/compiler-cli": "~16.2.0",
     "@angular/language-service": "~16.2.0",
-    "@babel/core": "7.23.2",
+    "@babel/core": "7.24.0",
     "@babel/preset-react": "^7.22.15",
     "@babel/preset-typescript": "7.23.2",
     "@docusaurus/module-type-aliases": "2.4.3",
